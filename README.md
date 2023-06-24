@@ -1,1 +1,1 @@
-this repo is created for learning only
+this repo is created for learning purpose only
