@@ -1,3 +1,4 @@
+import React from 'react';
 import Expenses from './Expenses/Expenses';
 
 const expenses = [
